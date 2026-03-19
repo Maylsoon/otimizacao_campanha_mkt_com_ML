@@ -78,6 +78,8 @@ Precision, Recall, F1-score
 
 Matriz de confusão
 
+![confusion matrix](figures/matriz_confusão.png)
+
 ROC AUC
 
 📈 Resultados
