@@ -131,3 +131,9 @@ Modelos sem variáveis de consumo para avaliar generalização
 Uso de SHAP para interpretabilidade avançada
 
 Ajuste de threshold para otimização de recall
+
+______________________________________________________________________________________________________
+
+Este projeto demonstra não apenas a construção de um modelo preditivo, mas também a preocupação com boas práticas de Machine Learning, como prevenção de vazamento de dados, validação robusta e interpretação dos resultados.
+
+Além disso, a análise crítica sobre o comportamento do modelo e suas limitações reforça a importância de alinhar soluções de dados com o contexto de negócio.
