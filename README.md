@@ -106,6 +106,8 @@ Income
 
 NumWebVisitsMonth
 
+![feature_importances](figures/feature_importance.png)
+
 ____________________________________________________________________________________________________
 
 🧠 Insights de Negócio
