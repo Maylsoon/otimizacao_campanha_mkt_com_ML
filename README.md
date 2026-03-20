@@ -82,6 +82,8 @@ Matriz de confusão
 
 ROC AUC
 
+![curva_roc](figures/curva_roc.png)
+
 📈 Resultados
 
 Accuracy: ~0.90
